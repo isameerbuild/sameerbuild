@@ -1,4 +1,4 @@
-# Hello, I'm Samar.
+# Hello, I'm Sameer.
 
 I believe great software isn't measured by how it looks.
 
